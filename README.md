@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)]
+[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)]
 <h1 align="center">Hi 👋, I'm Kianny</h1>
 <h3 align="center">I'm Full-Stack Developer, with experience working on collaborative projects for front-end and back-end development of web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
