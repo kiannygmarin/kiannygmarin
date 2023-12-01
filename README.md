@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kianny720@gmail.com**
 
-- ⚡ Fun fact **I've programmed so much that my cafe now has a GitHub repository and a branch for the grounds.**
+- ⚡ Fun fact **I've programmed so much that my coffee now has a GitHub repository.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
